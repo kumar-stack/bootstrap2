@@ -1,0 +1,141 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: lavender;
+}	
+.left_card{
+	width: 26.8rem;
+	position: relative;
+	box-shadow: 0.06rem 0.06rem 0.75rem 0.06rem gray;
+	margin: 1.8rem 0.9rem;
+	background: white;
+}
+img{
+	width: 100%;
+}
+.left_card .card-body .name{
+	font-size: 1.8rem;
+	position: absolute;
+	top: 14.68rem;
+}
+.brd_btm{
+	border-bottom: 0.06rem solid rgba(0, 0, 0, 0.2);
+	padding-bottom: 1.5rem;
+
+}
+.card-body p{
+	color: #757575;
+}
+p .icon{
+	color: #009688;
+	padding-right:0.6rem ;
+}
+span.skill{
+	font-weight: bolder;
+	font-size: 1.125rem;
+}
+.boxing{
+	width: 100%;
+	background: lavender;
+	border-radius: 0.9rem;
+	height: 1.25rem;
+	line-height: 1.25rem;
+	font-size: 0.75rem;
+}
+.card-body .box1{
+	width: 90%;
+	background: #009688;
+	color: white;
+	border-radius: 0.9rem;
+	text-align: center;
+	height: 1.25rem;
+}
+.card-body .box2{
+	width: 80%;
+	background: #009688;
+	color: white;
+	border-radius: 0.9rem;
+	text-align: center;
+	height: 1.25rem;
+}
+.card-body .box3{
+	width: 75%;
+	background: #009688;
+	color: white;
+	border-radius: 0.9rem;
+	text-align: center;
+	height: 1.25rem;
+}
+.card-body .box4{
+	width: 50%;
+	background: #009688;
+	color: white;
+	border-radius: 0.9rem;
+	text-align: center;
+	height: 1.25rem;
+}
+.boxing2{
+	background:  #009688;
+	width: 100%;
+	border-radius: 0.9rem;
+	height: 1.25rem;
+}
+.card-body .box5{
+	width: 25%;
+	background: #009688;
+	height: 1.25rem;
+	border-radius: 0.9rem;
+}
+
+
+.right_card{
+	margin: 1.8rem 0.9rem;
+	background: white;
+	box-shadow: 0.06rem 0.06rem 0.75rem 0.06rem gray;
+	padding: 0.9rem;
+}
+.right_card .ryt_body{
+	padding: 0.625rem;
+}
+.right_card .ryt_body .ryt_work{
+	font-size: 1.8rem;
+	padding-bottom: 2.4rem;
+	padding-top: 0.9rem;
+}
+.ryt_work .icon{
+	color: #009688;
+	padding-right: 1.2rem ;
+}
+.ryt_body .color{
+	color:#009688;
+}
+.ryt_body .color .curt{
+	background:#009688;
+	color: white;
+	padding: 0.12rem;
+	border-radius: 0.25rem;
+}
+.ryt_body .subtitle{
+	font-size: 1.1rem;
+	font-weight: bolder;
+}
+.ryt_down{
+	margin: 1.8rem 0.9rem;
+	background: white;
+	box-shadow: 0.06rem 0.06rem 0.75rem 0.06rem gray;
+	padding: 0.9rem;
+}
+.ryt-body{
+	background: white;
+}
+.ryt_down .ryt-body .ryt_work{
+	font-size: 1.8rem;
+}
+
+
+
+@media (min-width:240px) and (max-width:576px){
+	
+}
